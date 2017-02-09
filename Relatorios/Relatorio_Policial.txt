@@ -1,0 +1,36 @@
+===============================================================
+Id: 1		Administrador
+Nome: Jim Gordon
+Peso: 80 kg
+Altura: 180 cm
+Cargo: Comissario
+Numero de prisoes efetuada: 3
+Nome prisioneiros:
+	- Mr. Freeze.
+	- Espantalho.
+	- Pinguin.
+Herois cadastrados:
+	- Muguersso Batima.
+	- Mulher Maravilha.
+
+===============================================================
+Id: 3
+Nome: Chefe Wiggum
+Peso: 99 kg
+Altura: 172 cm
+Cargo: Milico
+Numero de prisoes efetuada: 0
+Herois cadastrados:
+
+===============================================================
+Id: 4		Administrador
+Nome: Harvey Bullock
+Peso: 98 kg
+Altura: 189 cm
+Cargo: Detetive
+Numero de prisoes efetuada: 1
+Nome prisioneiros:
+	- Coringa.
+Herois cadastrados:
+
+			Sat Dec 19 02:20:04 BRST 2015
